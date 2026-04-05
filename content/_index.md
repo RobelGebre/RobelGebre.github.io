@@ -33,7 +33,7 @@ sections:
       title: '🧠 My Research'
       subtitle: ''
       text: |-
-        I am a Biomedical Engineering curently working on develop and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. My work spans tau PET quantification, multisite MRI harmonization, automated disease progression modeling, and imaging signatures of rare disorders such as multiple system atrophy.
+        I am a Biomedical Engineering (PhD, Research Associate) curently working on developing and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. My work spans tau PET quantification, multisite MRI harmonization, automated disease progression modeling, and imaging signatures of rare disorders such as multiple system atrophy.
 
         I am always open to collaboration. Please reach out.
     design:

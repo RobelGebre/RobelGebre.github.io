@@ -14,7 +14,7 @@ organizations:
   - name: Mayo Clinic
     url: https://www.mayoclinic.org/
 
-bio: I develop machine learning methods for neuroimaging biomarkers of Alzheimer's disease and neurodegeneration.
+bio: I am a Biomedical Engineer.
 
 interests:
   - Neuroimaging (MRI & PET)

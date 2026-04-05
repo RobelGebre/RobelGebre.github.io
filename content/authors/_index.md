@@ -4,7 +4,7 @@ build:
   render: never
 cascade:
   build:
-    render: never
+    render: true
     list: always
 
 ---

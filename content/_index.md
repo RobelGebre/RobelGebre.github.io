@@ -33,7 +33,7 @@ sections:
       title: '🧠 My Research'
       subtitle: ''
       text: |-
-        I am a Biomedical Engineering curently working on develop and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. My work spans tau PET quantification, multisite MRI harmonization, automated disease progression modeling, and imaging signatures of rare disorders such as multiple system atrophy.
+        I develop computational and analytical methods for quantifying neurodegenerative and musculoskeletal disease from medical images, using deep learning, explainable AI, biophysical modeling, disease progression modeling, and multimodal biomarker integration. My current work focuses on tau PET quantification in Alzheimer's disease, imaging heterogniety that distinguish multiple system atrophy from Parkinson's disease, MRI harmonization for multi-site studies, and automated PET radiotracer classification. I created the THETA score, the first tau PET metric that captures the full spatial heterogeneity of tau spread across the brain in a single clinically usable valuen. During my PhD, I applied similar quantitative approaches to musculoskeletal imaging, developing methods to detect hip osteoarthritis and fracture risk from clinical CT. 
 
         I am always open to collaboration. Please reach out.
     design:

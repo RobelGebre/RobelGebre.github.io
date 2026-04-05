@@ -5,110 +5,145 @@ name:
   display: Dr. Robel K. Gebre
   given: Robel
   family: Gebre
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
   - PhD
-  - InG
+  - Ing
 status:
-  icon: "☕️"
-role: Biomedical Engineer and Clinical Technologist
+  icon: "🧠"
+role: Research Associate, Department of Radiology
 bio: |
-  I am a Research Associate in the depratment of Radiology, Mayo Clinic, curently working on develop and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. 
-  My work spans tau PET quantification, multisite MRI harmonization, automated disease progression modeling, and imaging signatures of rare disorders such as multiple system atrophy
+  I am a Research Associate in the Department of Radiology at Mayo Clinic, developing and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions.
+  My work spans tau PET quantification, multisite MRI harmonization, disease progression modeling, and machine learning imaging signatures of rare disorders such as multiple system atrophy.
+  I have filed two invention disclosures with Mayo Clinic Ventures and released three open-source software tools for the neuroimaging community.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Mayo Clinic
+    url: https://www.mayoclinic.org/
 
 links:
   - icon: at-symbol
-    url: mailto:robel.gebre@example.com
+    url: mailto:Gebre.RobelKebede@mayo.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/robelgebre
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/RobelGebre
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-5746-0994
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Neuroimaging Biomarkers
+  - Tau PET Quantification
+  - Disease Progression Modeling
+  - MRI Harmonization
+  - Explainable AI in Medical Imaging
+  - Multiple System Atrophy
+  - Musculoskeletal Imaging
 
 education:
-  - degree: PhD Medical Physics
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Medicine (Medical Physics and Technology)
+    institution: University of Oulu, Finland
+    start: 2017-01-01
+    end: 2021-07-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
+      Thesis: "Computed tomography assessment of low-energy acetabular fractures in the elderly."
+      Developed the first deep learning application for detecting hip osteoarthritis from clinical CT and identified CT-based structural risk factors for low-energy acetabular fractures.
+      Published 3 first-author papers in Osteoporosis International, Annals of Biomedical Engineering, and Bone.
+      Research featured in two Finnish national publications (Tekniikka&Talous and Kauppalehti).
+  - degree: MSc in Biomedical and Clinical Technology (Ing.)
+    institution: Czech Technical University, Prague & University of Groningen, Netherlands (Erasmus Mundus Joint Degree)
     start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
+    end: 2016-09-01
+    summary: |
+      Erasmus Mundus full-ride scholarship recipient (fewer than 5% acceptance rate).
+      Joint master's degree across two European institutions in Biomedical Engineering.
+  - degree: BSc in Biomedical Engineering (Summa Cum Laude)
+    institution: Jimma University, Ethiopia
     start: 2009-09-01
-    end: 2013-05-31
+    end: 2013-06-27
+    summary: |
+      Graduated with highest academic honors.
+      Recognized as the best young scientist in Ethiopia for undergraduate thesis on wireless infant incubators.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Associate / Postdoctoral Research Fellow
+    org: Mayo Clinic, Department of Radiology
+    start: 2021-09-13
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developing and validating machine learning methods for quantifying neurodegenerative disease from PET and MRI.
+      Created THETA, a novel tau PET summary metric for Alzheimer's disease (published in Journal of Nuclear Medicine).
+      Filed two invention disclosures with Mayo Clinic Ventures (THETA metric and automated PET tracer classifier).
+      Leading projects on tau therapeutic windows for anti-amyloid therapy, MSA imaging signatures, MRI harmonization, brain age prediction, and synthetic tau PET generation.
+      Contributing to multiple NIH-funded studies.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Python (pandas, numpy, sklearn, PyTorch, hmmlearn, Stan)
         level: 5
-      - label: Machine Learning
+      - label: Machine Learning / Deep Learning
         level: 5
-      - label: Cloud Computing
+      - label: Medical Image Analysis (PET, MRI, CT)
+        level: 5
+      - label: MATLAB
         level: 4
+      - label: Statistical Modeling
+        level: 5
   - name: Research & Communication
     items:
-      - label: Academic Writing
+      - label: Scientific Writing (Manuscripts, Grants)
         level: 5
       - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+        level: 5
+      - label: Peer Review
+        level: 5
+      - label: Invention Disclosure / IP Translation
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Amharic
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Alavi-Mandell Award
+    awarder: Society of Nuclear Medicine and Molecular Imaging (SNMMI)
+    date: "2025-01-01"
+    summary: Awarded annually to one trainee for the most outstanding first-author paper published in the Journal of Nuclear Medicine. Received for the THETA tau PET quantification paper.
     icon: hero/trophy
+  - title: Don Summers Memorial MSA Travel Fellowship Award
+    awarder: American Autonomic Society / Multiple System Atrophy Coalition
+    date: "2025-01-01"
+    summary: Awarded for the most outstanding abstract pertaining to multiple system atrophy at the AAS annual meeting.
+    icon: hero/trophy
+  - title: Young Investigator Travel Scholarship
+    awarder: Human Amyloid Imaging (HAI) Conference
+    date: "2023-01-01"
+    summary: Competitive scholarship for students and postdoctoral researchers based on scientific merit of submitted abstract.
+    icon: hero/academic-cap
+  - title: Mayo Clinic Radiology Research Fellowship
+    awarder: Mayo Clinic
+    date: "2021-09-01"
+    summary: Internally competitive institutional award providing salary and research support for postdoctoral fellows in imaging research.
+    icon: hero/academic-cap
+  - title: Travel Scholarship Award
+    awarder: Orthopaedic Research Society (ORS)
+    date: "2019-01-01"
+    summary: Awarded competitively based on abstract quality for CT-based bone characterization of acetabular fractures.
+    icon: hero/academic-cap
+  - title: Erasmus Mundus Scholarship
+    awarder: European Commission
+    date: "2013-09-01"
+    summary: Full-ride scholarship for joint master's degree, awarded to fewer than 5% of applicants based on academic excellence and research potential.
+    icon: hero/academic-cap
+  - title: Summa Cum Laude and Best Young Scientist
+    awarder: Jimma University, Ethiopia
+    date: "2013-06-27"
+    summary: Graduated with highest academic honors and recognized as the best young scientist in Ethiopia for undergraduate thesis on wireless infant incubators.
+    icon: hero/academic-cap

@@ -13,9 +13,9 @@ postnominals:
   - InG
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Biomedical Engineer and Clinical Technologist
 bio: |
-  Robel Gebre is a Biomedical Engineer.
+  Robel Gebre is a Research Associate.
 
 affiliations:
   - name: Meta AI
@@ -43,7 +43,7 @@ interests:
   - AI Ethics
 
 education:
-  - degree: PhD Computer Science
+  - degree: PhD Medical Physics
     institution: Stanford University
     start: 2015-09-01
     end: 2019-06-30

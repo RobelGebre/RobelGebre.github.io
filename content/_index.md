@@ -9,7 +9,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: me
+      username: admin
       text: ''
       button:
         text: Download CV

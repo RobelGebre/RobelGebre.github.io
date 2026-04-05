@@ -33,7 +33,7 @@ sections:
       title: '🧠 My Research'
       subtitle: ''
       text: |-
-        I develop and validate quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. My work spans tau PET quantification, multisite MRI harmonization, automated disease progression modeling, and imaging signatures of rare disorders such as multiple system atrophy. I am also building Ethiopia's first dedicated neuroimaging biomarker laboratory at Addis Ababa University, with the goal of enabling dementia research in resource-limited settings.
+        I develop and validate quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. My work spans tau PET quantification, multisite MRI harmonization, automated disease progression modeling, and imaging signatures of rare disorders such as multiple system atrophy.
 
         I am always open to collaboration. Please reach out.
     design:
@@ -94,5 +94,4 @@ sections:
       view: card
       spacing:
         padding: [0, 0, 0, 0]
-
 ---

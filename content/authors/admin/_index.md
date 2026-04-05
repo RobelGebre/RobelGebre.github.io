@@ -54,3 +54,5 @@ social:
 
 highlight_name: true
 ---
+
+I am a Research Associate in the Department of Radiology at Mayo Clinic. My research centers on quantitative neuroimaging biomarkers for Alzheimer's disease and related neurodegenerative conditions. Current projects include tau PET quantification, multisite MRI harmonization, Bayesian longitudinal disease progression modeling, and imaging signatures of multiple system atrophy.

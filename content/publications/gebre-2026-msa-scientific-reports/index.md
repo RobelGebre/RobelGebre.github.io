@@ -2,8 +2,8 @@
 title: "Precise disease heterogeneity and progression quantification in MSA and Parkinson's disease using machine learning"
 authors:
   - "Robel K. Gebre"
-  - "Sujata Raghavan"
-  - "Maria E.J. De Tora"
+  - "Sheelakumari Raghavan"
+  - "Mari E.J. De Tora"
   - "et al."
 date: "2026-03-01"
 doi: "10.1038/s41598-026-45949-5"

@@ -49,7 +49,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 4
+      columns: 2
 
   - block: collection
     content:
@@ -79,7 +79,7 @@ sections:
       subtitle: ''
       text: ''
       page_type: blog
-      count: 10
+      count: 100
       filters:
         author: ''
         category: ''

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 8 - Artificial intelligence: Relevance and applications in dementia"
 authors:
-  - "Sujata Raghavan"
+  - "Sheelakumari Raghavan"
   - "Robel K. Gebre"
   - "Prashanthi Vemuri"
 date: "2026-01-01"

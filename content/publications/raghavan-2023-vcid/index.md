@@ -1,7 +1,7 @@
 ---
 title: "Vascular risk, gait, behavioral, and plasma indicators of VCID"
 authors:
-  - "Sujata Raghavan"
+  - "Sheelakumari Raghavan"
   - "Scott A. Przybelski"
   - "Timothy G. Lesnick"
   - "et al."

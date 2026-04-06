@@ -1,7 +1,7 @@
 ---
 title: "Developing scanner change invariant brain age models for aging and dementia studies"
 authors:
-  - "Surabhi Satpathi"
+  - "Siddhartha Satpathi"
   - "Robel K. Gebre"
   - "et al."
 date: "2025-01-01"

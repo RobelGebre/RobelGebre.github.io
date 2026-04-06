@@ -1,7 +1,7 @@
 ---
 title: "Harmonization Remains Unresolved: The Case of White Matter Hyperintensity Using ComBat And Deming Regression"
 authors:
-  - "Christian D. Reyes"
+  - "Calvin D. Reyes"
   - "Robel K. Gebre"
   - "et al."
 date: "2025-01-01"

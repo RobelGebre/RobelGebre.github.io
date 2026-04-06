@@ -1,8 +1,8 @@
 ---
 title: "White Matter Degeneration Pathways Associated With Tau Deposition in Alzheimer Disease"
 authors:
-  - "Jingwen Tian"
-  - "Sujata Raghavan"
+  - "Jianqiao Tian"
+  - "Sheelakumari Raghavan"
   - "Robert I. Reid"
   - "et al."
 date: "2023-05-01"

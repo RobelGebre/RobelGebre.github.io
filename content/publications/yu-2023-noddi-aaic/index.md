@@ -1,7 +1,7 @@
 ---
 title: "NODDI May Be More Sensitive to Neurodegenerative Changes Than Structural MRI"
 authors:
-  - "Xueying Yu"
+  - "Xi Yu"
   - "Robel K. Gebre"
   - "et al."
 date: "2023-12-01"

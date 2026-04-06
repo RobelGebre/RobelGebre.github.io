@@ -1,7 +1,7 @@
 ---
 title: "Diffusion Imaging Measures to Disentangle SVD-related Hypertensive Arteriopathy versus Cerebral Amyloid Angiopathy"
 authors:
-  - "Sujata Raghavan"
+  - "Sheelakumari Raghavan"
   - "Scott A. Przybelski"
   - "Robel K. Gebre"
   - "et al."

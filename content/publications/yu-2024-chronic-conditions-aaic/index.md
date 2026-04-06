@@ -1,7 +1,7 @@
 ---
 title: "Chronic Medical Conditions and Dementia Risk: Brain Age Models for Quantifying Impact and Understanding Mechanisms"
 authors:
-  - "Xueying Yu"
+  - "Xi Yu"
   - "Scott A. Przybelski"
   - "Robert I. Reid"
   - "Robel K. Gebre"

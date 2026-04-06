@@ -1,7 +1,7 @@
 ---
 title: "Non-imaging measures to predict variability in white matter changes relevant to VCID"
 authors:
-  - "Sujata Raghavan"
+  - "Sheelakumari Raghavan"
   - "Scott A. Przybelski"
   - "Timothy G. Lesnick"
   - "et al."

@@ -2,8 +2,6 @@
 title: "Validation Of the Tau Heterogeneity Evaluation in Alzheimer's Disease (THETA) Score Using Longitudinal and Histopathology Data"
 authors:
   - "Robel K. Gebre"
-  - "Ariadna Moscoso"
-  - "Sujata Raghavan"
   - "et al."
 date: "2024-01-01"
 doi: "10.1002/alz.091770"

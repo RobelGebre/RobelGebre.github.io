@@ -3,7 +3,7 @@ title: "Precise Estimation Of Heterogenous Global Tau Burden In The Brain Sheds 
 authors:
   - "Robel K. Gebre"
   - "Scott A. Przybelski"
-  - "Sujata Raghavan"
+  - "Sheelakumari Raghavan"
   - "et al."
 date: "2025-01-01"
 doi: "10.1002/alz70856_103992"

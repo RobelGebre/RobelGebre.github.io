@@ -69,13 +69,10 @@ The poster defined the tau therapeutic window, a tau PET SUVR range over which a
 
 ## Photos
 
-<!--
-  Drop your summit photos into THIS folder (alongside index.md), for example:
-    featured.jpg   (used as the page/cover image)
-    summit-01.jpg
-    summit-02.jpg
-  Then the gallery shortcode below will display every image in the folder.
-  Delete this comment block and uncomment the gallery line once photos are added.
--->
+![Mayo Clinic AI Summit](summit-01.jpg)
 
-{{< gallery >}}
+![Mayo Clinic AI Summit](summit-02.jpg)
+
+![Mayo Clinic AI Summit](summit-03.jpg)
+
+![Mayo Clinic AI Summit](summit-04.jpg)

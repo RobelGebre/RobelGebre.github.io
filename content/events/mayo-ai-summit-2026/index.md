@@ -22,8 +22,8 @@ abstract: |
   The poster introduced the tau therapeutic window, a biological staging based eligibility criterion for anti-amyloid therapy. The window identifies patients early enough in the disease course for treatment to plausibly change the trajectory.
 
 # Talk start and end times.
-event_start: '2026-04-05T09:00:00Z'   
-event_end: '2026-05-05T17:00:00Z'     
+event_start: '2026-06-04T09:00:00Z'   
+event_end: '2026-06-05T17:00:00Z'     
 event_all_day: false
 
 authors:

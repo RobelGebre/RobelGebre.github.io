@@ -13,11 +13,11 @@ address:
   postcode: 'E16 1XL'
   country: United Kingdom
 
-summary: I will attend AAIC 2026 in London to present recent work in neuroimaging and machine learning for Alzheimer's disease.
+summary: I will remotely attend AAIC 2026 in London to present recent work in neuroimaging and machine learning for Alzheimer's disease.
 abstract: |
-  AAIC is the largest international meeting dedicated to dementia science. I will attend the 2026 edition in London to present recent work in neuroimaging and machine learning for Alzheimer's disease and to connect with collaborators across the field.
+  AAIC is the largest international meeting dedicated to dementia science. I will remotely attend the 2026 edition in London to present recent work in neuroimaging and machine learning for Alzheimer's disease and to connect with collaborators across the field.
 
-  Details of my presentation will appear here once the program is confirmed.   # TODO: add talk/poster title, session, date, and time
+  Details of my presentation will appear here once the program is confirmed.   
 
 # Talk start and end times.
 event_start: '2026-07-12T08:00:00Z'

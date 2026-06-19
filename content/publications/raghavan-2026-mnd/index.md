@@ -5,8 +5,8 @@ authors:
   - "Scott A. Przybelski"
   - "Robel K. Gebre"
   - "et al."
-date: "2023-12-01"
-doi: "10.1002/alz.13540"
+date: "2026-04-13"
+doi: "10.1186/s13024-026-00942-4"
 publishDate: "2026-04-13"
 publication_types: ["article-journal"]
 publication: "*Molecular Degeneration*"

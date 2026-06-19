@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: https://iborz.org/
+    name: RG
     type: person
     tagline: Research Associate
     description: ""

@@ -2,7 +2,7 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Robel Gebre, Ing., PhD"
+  display: "Dr. Robel Gebre"
   given: "Robel"
   family: "Gebre"
   alternate: ""
@@ -17,7 +17,7 @@ role: "Postdoctoral Fellow / Research Associate"
 url: "https://iborz.org"
 bio: "I am a Research Associate in the Department of Radiology at Mayo Clinic, developing and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions.
 
-  My work spans tau PET quantification, multisite MRI harmonization, disease progression modeling, and machine learning imaging signatures of rare disorders such as multiple system atrophy.\n"
+  My work includes tau PET quantification, multisite MRI harmonization, disease progression modeling, and machine learning imaging signatures of rare disorders such as multiple system atrophy.\n"
 affiliations:
   - name: "Department of Radiology, Mayo Clinic, Rochester, MN, USA"
     url: ""

@@ -1,63 +1,154 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 300" role="img" aria-labelledby="title desc">
-  <title id="title">Robel Gebre logo</title>
-  <desc id="desc">A horizontal personal academic logo with a neuroimaging and AI mark beside the name Robel Gebre.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Robel Gebre website logo</title>
+  <desc id="desc">A horizontal academic brand logo with a clear brain icon, subtle faded imaging scanner, AI network nodes, and Robel Gebre wordmark.</desc>
   <defs>
-    <linearGradient id="markBg" x1="30" y1="30" x2="245" y2="270" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#102A4C"/>
-      <stop offset="0.52" stop-color="#0B1F3A"/>
-      <stop offset="1" stop-color="#071425"/>
+    <linearGradient id="navyText" x1="1510" y1="450" x2="3450" y2="825" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#061E3D"/>
+      <stop offset="1" stop-color="#0B315B"/>
     </linearGradient>
-    <linearGradient id="markOrbit" x1="53" y1="95" x2="241" y2="199" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#4CC9F0"/>
-      <stop offset="0.55" stop-color="#21B6A8"/>
-      <stop offset="1" stop-color="#F2B84B"/>
+    <linearGradient id="brainFill" x1="520" y1="420" x2="1180" y2="1160" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.58" stop-color="#E9F8FA"/>
+      <stop offset="1" stop-color="#BFE9F2"/>
     </linearGradient>
-    <linearGradient id="markBrain" x1="90" y1="88" x2="207" y2="219" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#EAF7F6"/>
-      <stop offset="1" stop-color="#A7F3EA"/>
+    <linearGradient id="brainFill2" x1="845" y1="420" x2="1270" y2="1190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.56" stop-color="#EAF8FA"/>
+      <stop offset="1" stop-color="#C7EDF5"/>
     </linearGradient>
-    <filter id="logoShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0B1F3A" flood-opacity="0.20"/>
+    <linearGradient id="tealLine" x1="1380" y1="870" x2="3405" y2="870" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#17B2B2"/>
+      <stop offset="1" stop-color="#22C0B6"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="3415" y1="870" x2="3665" y2="870" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F3C85B"/>
+      <stop offset="1" stop-color="#F1A62A"/>
+    </linearGradient>
+    <linearGradient id="scannerGrad" x1="92" y1="180" x2="1350" y2="1390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B9D0E3" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#D8E6F1" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="orbitTeal" x1="360" y1="650" x2="1290" y2="1010" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18AEB4"/>
+      <stop offset="1" stop-color="#22C1B6"/>
+    </linearGradient>
+    <linearGradient id="orbitGold" x1="875" y1="590" x2="1450" y2="1008" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F3C85B"/>
+      <stop offset="1" stop-color="#E1A11C"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#071E36" flood-opacity="0.16"/>
+    </filter>
+    <filter id="textShadow" x="-5%" y="-10%" width="110%" height="130%">
+      <feDropShadow dx="10" dy="10" stdDeviation="7" flood-color="#0A2947" flood-opacity="0.08"/>
     </filter>
   </defs>
 
-  <g transform="translate(34 28)" filter="url(#logoShadow)">
-    <rect width="244" height="244" rx="58" fill="url(#markBg)"/>
-    <g fill="none" stroke-linecap="round">
-      <ellipse cx="122" cy="122" rx="86" ry="53" transform="rotate(-18 122 122)" stroke="url(#markOrbit)" stroke-width="8" opacity="0.95"/>
-      <ellipse cx="122" cy="122" rx="89" ry="56" transform="rotate(24 122 122)" stroke="#4CC9F0" stroke-width="4" opacity="0.33"/>
+  <rect width="3840" height="1600" fill="#FFFFFF"/>
+
+  <!-- faded scanner / imaging gantry -->
+  <g opacity="0.42">
+    <path d="M112 836 C112 452 428 166 858 165 C1192 166 1465 386 1528 701 C1569 909 1499 1129 1347 1292 C1173 1478 896 1556 620 1496 C328 1431 112 1170 112 836Z" fill="url(#scannerGrad)"/>
+    <path d="M301 823 C301 529 540 316 853 316 C1171 316 1415 533 1415 824 C1415 1119 1176 1328 853 1328 C533 1328 301 1119 301 823Z" fill="#FFFFFF" opacity="0.56"/>
+    <path d="M383 823 C383 571 589 389 858 389 C1126 389 1334 574 1334 823 C1334 1076 1127 1256 858 1256 C585 1256 383 1075 383 823Z" fill="none" stroke="#BFD3E5" stroke-width="16" opacity="0.38"/>
+    <path d="M535 823 C535 665 668 548 858 548 C1048 548 1182 665 1182 823 C1182 982 1048 1098 858 1098 C668 1098 535 982 535 823Z" fill="#DAEAF4" opacity="0.14"/>
+    <path d="M108 814 L340 814 L340 1135 L108 1066Z" fill="#D8E8F2" opacity="0.25"/>
+    <path d="M438 1315 L1042 1315 L1395 1418 L742 1480Z" fill="#D9E8F2" opacity="0.23"/>
+    <path d="M1018 1090 C1214 1131 1417 1209 1567 1328 C1598 1353 1582 1415 1542 1423 L1207 1486 C1185 1490 1162 1486 1143 1474 L807 1272 Z" fill="#D6E5EF" opacity="0.18"/>
+    <path d="M887 292 L962 292 L958 337 L887 337Z" fill="#C6DAEA" opacity="0.22"/>
+  </g>
+
+  <!-- icon group -->
+  <g transform="translate(325 240)" filter="url(#softShadow)">
+    <!-- orbits -->
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M78 622 C224 388 748 384 1004 544 C1158 641 1196 805 1076 920 C895 1095 360 1046 128 810" stroke="url(#orbitTeal)" stroke-width="14" opacity="0.95"/>
+      <path d="M1032 542 C1210 639 1205 868 1045 986 C852 1130 388 1052 158 840" stroke="url(#orbitGold)" stroke-width="12" opacity="0.88"/>
+      <circle cx="1138" cy="525" r="32" fill="#F1AE30" stroke="#FFFFFF" stroke-width="10"/>
+      <circle cx="145" cy="1006" r="34" fill="#15B8B7" stroke="#FFFFFF" stroke-width="10"/>
     </g>
+
+    <!-- brain silhouette, clearer than cloud -->
     <g>
-      <path d="M121 72c-11-12-30-12-39 2-13-1-25 8-28 20-12 7-17 22-10 34-6 12-2 27 9 35 2 15 16 25 30 23 8 13 28 13 37 1 4-7 5-15 5-24V89c0-7-1-12-4-17Z" fill="url(#markBrain)" opacity="0.96"/>
-      <path d="M124 72c11-12 30-12 39 2 13-1 25 8 28 20 12 7 17 22 10 34 6 12 2 27-9 35-2 15-16 25-30 23-8 13-28 13-37 1-4-7-5-15-5-24V89c0-7 1-12 4-17Z" fill="url(#markBrain)" opacity="0.96"/>
-      <path d="M122 84v82" fill="none" stroke="#0B1F3A" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+      <path d="M570 247
+        C516 198 431 204 385 258
+        C324 266 274 311 263 372
+        C214 397 183 447 185 504
+        C136 543 116 611 138 671
+        C98 721 94 795 129 851
+        C116 926 160 1001 232 1024
+        C250 1095 320 1141 391 1130
+        C440 1197 543 1191 583 1115
+        C604 1075 611 1035 611 962
+        L611 348
+        C611 305 599 273 570 247 Z" fill="url(#brainFill)" stroke="#073F68" stroke-width="18" stroke-linejoin="round"/>
+      <path d="M650 247
+        C704 198 789 204 835 258
+        C896 266 946 311 957 372
+        C1006 397 1037 447 1035 504
+        C1084 543 1104 611 1082 671
+        C1122 721 1126 795 1091 851
+        C1104 926 1060 1001 988 1024
+        C970 1095 900 1141 829 1130
+        C780 1197 677 1191 637 1115
+        C616 1075 609 1035 609 962
+        L609 348
+        C609 305 621 273 650 247 Z" fill="url(#brainFill2)" stroke="#073F68" stroke-width="18" stroke-linejoin="round"/>
+      <path d="M610 282 L610 1094" stroke="#073F68" stroke-width="26" stroke-linecap="round"/>
+      <path d="M610 306 L610 1074" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.58"/>
     </g>
-    <g fill="none" stroke="#0B1F3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.62">
-      <path d="M91 91c-8 5-10 13-5 20"/>
-      <path d="M74 118c11 0 18 7 18 18"/>
-      <path d="M84 156c9-2 15-8 17-17"/>
-      <path d="M153 91c8 5 10 13 5 20"/>
-      <path d="M170 118c-11 0-18 7-18 18"/>
-      <path d="M160 156c-9-2-15-8-17-17"/>
+
+    <!-- gyri/folds -->
+    <g fill="none" stroke="#9BC7D8" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" opacity="0.62">
+      <path d="M390 336 C346 344 323 380 331 421"/>
+      <path d="M461 309 C417 333 414 384 443 416"/>
+      <path d="M520 336 C555 365 549 421 507 445"/>
+      <path d="M292 468 C336 454 388 482 394 533"/>
+      <path d="M224 599 C275 582 331 619 337 677"/>
+      <path d="M342 724 C397 721 435 757 433 808"/>
+      <path d="M235 813 C277 835 296 881 279 929"/>
+      <path d="M415 878 C458 911 456 979 411 1010"/>
+      <path d="M519 823 C553 849 553 908 515 935"/>
+      <path d="M708 336 C752 344 775 380 767 421"/>
+      <path d="M779 309 C823 333 826 384 797 416"/>
+      <path d="M718 471 C673 493 657 548 692 589"/>
+      <path d="M935 468 C891 454 839 482 833 533"/>
+      <path d="M1001 599 C950 582 894 619 888 677"/>
+      <path d="M888 724 C833 721 795 757 797 808"/>
+      <path d="M995 813 C953 835 934 881 951 929"/>
+      <path d="M815 878 C772 911 774 979 819 1010"/>
+      <path d="M708 823 C674 849 674 908 712 935"/>
     </g>
+
+    <!-- AI network -->
     <g stroke-linecap="round" stroke-linejoin="round">
-      <path d="M83 122 103 100 123 114 145 97 163 124 143 150 115 142 94 160" fill="none" stroke="#F2B84B" stroke-width="4" opacity="0.95"/>
-      <circle cx="83" cy="122" r="6" fill="#21B6A8" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="103" cy="100" r="6" fill="#F2B84B" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="123" cy="114" r="6" fill="#4CC9F0" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="145" cy="97" r="6" fill="#21B6A8" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="163" cy="124" r="6" fill="#F2B84B" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="143" cy="150" r="6" fill="#4CC9F0" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="115" cy="142" r="6" fill="#21B6A8" stroke="#EAF7F6" stroke-width="2"/>
-      <circle cx="94" cy="160" r="6" fill="#F2B84B" stroke="#EAF7F6" stroke-width="2"/>
+      <path d="M348 630 L476 502 L606 643 L765 501 L897 641 L766 795 L606 688 L476 798 Z" fill="none" stroke="#FFFFFF" stroke-width="34" opacity="0.78"/>
+      <path d="M348 630 L476 502 L606 643" fill="none" stroke="#13B7B1" stroke-width="15"/>
+      <path d="M606 643 L765 501 L897 641" fill="none" stroke="#F2B23C" stroke-width="15"/>
+      <path d="M897 641 L766 795 L606 688" fill="none" stroke="#19B9B2" stroke-width="15"/>
+      <path d="M606 688 L476 798 L348 630" fill="none" stroke="#F2B23C" stroke-width="15"/>
+      <path d="M476 502 L476 798" stroke="#FFFFFF" stroke-width="7" opacity="0.85"/>
+      <path d="M765 501 L766 795" stroke="#FFFFFF" stroke-width="7" opacity="0.85"/>
+      <circle cx="348" cy="630" r="42" fill="#18B8B7" stroke="#FFFFFF" stroke-width="14"/>
+      <circle cx="476" cy="502" r="42" fill="#F2AF2C" stroke="#FFFFFF" stroke-width="14"/>
+      <circle cx="606" cy="643" r="48" fill="#31C7EA" stroke="#FFFFFF" stroke-width="15"/>
+      <circle cx="765" cy="501" r="42" fill="#F2AF2C" stroke="#FFFFFF" stroke-width="14"/>
+      <circle cx="897" cy="641" r="42" fill="#F2AF2C" stroke="#FFFFFF" stroke-width="14"/>
+      <circle cx="766" cy="795" r="42" fill="#18B8B7" stroke="#FFFFFF" stroke-width="14"/>
+      <circle cx="476" cy="798" r="42" fill="#F2AF2C" stroke="#FFFFFF" stroke-width="14"/>
     </g>
   </g>
 
-  <g transform="translate(330 73)">
-    <text x="0" y="70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-1.8" fill="#0B1F3A">Robel Gebre</text>
-    <rect x="2" y="92" width="376" height="5" rx="2.5" fill="#21B6A8"/>
-    <rect x="388" y="92" width="82" height="5" rx="2.5" fill="#F2B84B"/>
-    <text x="0" y="145" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="1.6" fill="#435B74">NEUROIMAGING · AI · AGING</text>
-    <text x="0" y="183" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#62758A">Biomedical imaging for disease quantification and clinical translation</text>
+  <!-- wordmark -->
+  <g transform="translate(1625 465)" filter="url(#textShadow)">
+    <text x="0" y="285" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="270" font-weight="800" letter-spacing="-7" fill="url(#navyText)">Robel Gebre</text>
+    <rect x="0" y="398" width="1785" height="17" rx="8.5" fill="url(#tealLine)"/>
+    <rect x="1848" y="398" width="225" height="17" rx="8.5" fill="url(#goldLine)"/>
+    <text x="0" y="590" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="111" font-weight="600" letter-spacing="30" fill="#40566E">NEUROIMAGING</text>
+    <circle cx="1246" cy="553" r="14" fill="#13B7B1"/>
+    <text x="1328" y="590" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="111" font-weight="600" letter-spacing="30" fill="#40566E">AI</text>
+    <circle cx="1582" cy="553" r="14" fill="#F1AE30"/>
+    <text x="1663" y="590" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="111" font-weight="600" letter-spacing="30" fill="#40566E">AGING</text>
+    <text x="0" y="735" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="450" fill="#3D566D">Biomedical imaging for disease quantification and clinical translation</text>
   </g>
 </svg>

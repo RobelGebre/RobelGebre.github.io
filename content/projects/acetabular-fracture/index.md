@@ -1,5 +1,5 @@
 ---
-title: Acetabular Fracture Assessment
+title: Low-energy Acetabular Fracture Assessment in the Elderly
 date: 2021-06-01
 tags:
   - CT

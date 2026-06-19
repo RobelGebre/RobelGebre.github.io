@@ -6,9 +6,8 @@ tags:
   - Musculoskeletal Imaging
   - Deep Learning
 ---
-
 Characterizing acetabular fractures from low-energy trauma, and hip osteoarthritis, using CT.
 
 <!--more-->
 
-Doctoral work, published in Osteoporosis International, Annals of Biomedical Engineering, and Bone. [REF]
+Doctoral work, published in Osteoporosis International, Annals of Biomedical Engineering, and Bone.

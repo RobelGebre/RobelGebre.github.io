@@ -2,12 +2,12 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Robel Gebre"
+  display: "Dr. Gebre"
   given: "Robel"
   family: "Gebre"
   alternate: ""
   pronunciation: ""
-  pronouns: "he/him"
+  # pronouns: "he/him"
 postnominals:
   - "PhD"
   - "Ing"

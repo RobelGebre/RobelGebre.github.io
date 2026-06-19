@@ -1,5 +1,5 @@
 ---
-title: 'From noise to PET: diffusion is winning, but the clinic is still waiting'
+title: 'From noise to PET: diffusion is winning, but is it really?'
 summary: Diffusion methods have overtaken GANs for generating images. Turning MRI into PET is within reach, yet a realistic picture is not a trustworthy one.
 date: 2026-06-18
 authors:

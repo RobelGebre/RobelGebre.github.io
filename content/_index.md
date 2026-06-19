@@ -72,9 +72,9 @@ sections:
       view: card
 
   - block: collection
-    id: news
+    id: blog
     content:
-      title: Recent News
+      title: Recent Blogs
       subtitle: ''
       text: ''
       page_type: blog

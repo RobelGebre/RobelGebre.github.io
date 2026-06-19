@@ -4,13 +4,13 @@ hugoblox:
     name: "RG"
     type: person
     tagline: Research Associate
-    description: ""
+    description: "Neuroimaging biomarkers, tau PET, and machine learning for Alzheimer's disease and neurodegeneration. Research by Robel Gebre, Mayo Clinic."
   theme:
     mode: system
     pack: default
     colors:
-      primary: ""
-      secondary: ""
+      primary: "#17B2B2"
+      secondary: "#F1AE30"
       neutral: ""
   typography:
     font: sans

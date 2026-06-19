@@ -1,12 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Robel Gebre logo">
-  <style>
-    .mark { stroke: #1E293B; fill: none; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
-    @media (prefers-color-scheme: dark) { .mark { stroke: #E2E8F0; } }
-  </style>
-  <circle cx="32" cy="32" r="10" fill="#F59E0B" opacity="0.16"/>
-  <g class="mark">
-    <circle cx="32" cy="32" r="23"/>
-    <path d="M13 32 C 24 21, 40 43, 51 32"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 300" role="img" aria-labelledby="title desc">
+  <title id="title">Robel Gebre logo</title>
+  <desc id="desc">A horizontal personal academic logo with a neuroimaging and AI mark beside the name Robel Gebre.</desc>
+  <defs>
+    <linearGradient id="markBg" x1="30" y1="30" x2="245" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#102A4C"/>
+      <stop offset="0.52" stop-color="#0B1F3A"/>
+      <stop offset="1" stop-color="#071425"/>
+    </linearGradient>
+    <linearGradient id="markOrbit" x1="53" y1="95" x2="241" y2="199" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4CC9F0"/>
+      <stop offset="0.55" stop-color="#21B6A8"/>
+      <stop offset="1" stop-color="#F2B84B"/>
+    </linearGradient>
+    <linearGradient id="markBrain" x1="90" y1="88" x2="207" y2="219" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EAF7F6"/>
+      <stop offset="1" stop-color="#A7F3EA"/>
+    </linearGradient>
+    <filter id="logoShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0B1F3A" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <g transform="translate(34 28)" filter="url(#logoShadow)">
+    <rect width="244" height="244" rx="58" fill="url(#markBg)"/>
+    <g fill="none" stroke-linecap="round">
+      <ellipse cx="122" cy="122" rx="86" ry="53" transform="rotate(-18 122 122)" stroke="url(#markOrbit)" stroke-width="8" opacity="0.95"/>
+      <ellipse cx="122" cy="122" rx="89" ry="56" transform="rotate(24 122 122)" stroke="#4CC9F0" stroke-width="4" opacity="0.33"/>
+    </g>
+    <g>
+      <path d="M121 72c-11-12-30-12-39 2-13-1-25 8-28 20-12 7-17 22-10 34-6 12-2 27 9 35 2 15 16 25 30 23 8 13 28 13 37 1 4-7 5-15 5-24V89c0-7-1-12-4-17Z" fill="url(#markBrain)" opacity="0.96"/>
+      <path d="M124 72c11-12 30-12 39 2 13-1 25 8 28 20 12 7 17 22 10 34 6 12 2 27-9 35-2 15-16 25-30 23-8 13-28 13-37 1-4-7-5-15-5-24V89c0-7 1-12 4-17Z" fill="url(#markBrain)" opacity="0.96"/>
+      <path d="M122 84v82" fill="none" stroke="#0B1F3A" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+    </g>
+    <g fill="none" stroke="#0B1F3A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.62">
+      <path d="M91 91c-8 5-10 13-5 20"/>
+      <path d="M74 118c11 0 18 7 18 18"/>
+      <path d="M84 156c9-2 15-8 17-17"/>
+      <path d="M153 91c8 5 10 13 5 20"/>
+      <path d="M170 118c-11 0-18 7-18 18"/>
+      <path d="M160 156c-9-2-15-8-17-17"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M83 122 103 100 123 114 145 97 163 124 143 150 115 142 94 160" fill="none" stroke="#F2B84B" stroke-width="4" opacity="0.95"/>
+      <circle cx="83" cy="122" r="6" fill="#21B6A8" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="103" cy="100" r="6" fill="#F2B84B" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="123" cy="114" r="6" fill="#4CC9F0" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="145" cy="97" r="6" fill="#21B6A8" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="163" cy="124" r="6" fill="#F2B84B" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="143" cy="150" r="6" fill="#4CC9F0" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="115" cy="142" r="6" fill="#21B6A8" stroke="#EAF7F6" stroke-width="2"/>
+      <circle cx="94" cy="160" r="6" fill="#F2B84B" stroke="#EAF7F6" stroke-width="2"/>
+    </g>
   </g>
-  <circle cx="32" cy="32" r="5.2" fill="#F59E0B"/>
+
+  <g transform="translate(330 73)">
+    <text x="0" y="70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="-1.8" fill="#0B1F3A">Robel Gebre</text>
+    <rect x="2" y="92" width="376" height="5" rx="2.5" fill="#21B6A8"/>
+    <rect x="388" y="92" width="82" height="5" rx="2.5" fill="#F2B84B"/>
+    <text x="0" y="145" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="1.6" fill="#435B74">NEUROIMAGING · AI · AGING</text>
+    <text x="0" y="183" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#62758A">Biomedical imaging for disease quantification and clinical translation</text>
+  </g>
 </svg>

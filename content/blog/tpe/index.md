@@ -9,8 +9,10 @@ tags:
   - Alzheimer's Disease
   - Biomarkers
 ---
-A disease trajectory is not uniform. There is often a point where the rate of change shifts, and that point carries clinical meaning.
+Disease trajectory is not linear and highly confounded by individual patient traites. There is often a point where the rate of change shifts, and that point carries clinical meaning.
 
 <!--more-->
 
-Disease trajectories have a moment when the course changes. Transition point estimator (TPE) uses machine learning to map the non-linear relationship between inputs and outcomes and computes the transition point in the inputs behaviour to establish its cutpoint.
+Disease trajectories have a moment when the course changes. Transition point estimator (TPE) uses machine learning to map the non-linear relationship between inputs (accounting for covariance) and outcomes to compute the transition point in each inputs' behaviour to establish its cutpoint. 
+
+<!--more-->

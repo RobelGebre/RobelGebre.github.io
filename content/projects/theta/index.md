@@ -6,9 +6,8 @@ tags:
   - Alzheimer's Disease
   - Imaging Biomarkers
 ---
-
 A tau PET summary measure that captures where tau sits in the brain, not only how much.
 
 <!--more-->
 
-Published in the Journal of Nuclear Medicine and recognized with the SNMMI Alavi-Mandell Award. [REF]
+Published in 2024 in the Journal of Nuclear Medicine and recognized with the SNMMI Alavi-Mandell Award.

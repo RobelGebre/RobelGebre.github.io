@@ -1,6 +1,6 @@
 ---
 title: 'TPE: finding the turning point in disease progression'
-summary: Disease trajectories have a moment when the course changes. Transition point estimator (TPE) uses machine learning to map the non-linear relationship between inputs and outcomes and computes the transition point in the inputs behaviour to establish its cutpoint.
+summary: Disease trajectories have a moment when the course changes.
 date: 2026-06-18
 authors:
   - me
@@ -13,4 +13,4 @@ A disease trajectory is not uniform. There is often a point where the rate of ch
 
 <!--more-->
 
-TPE is my approach to estimating that turning point from biomarker data. Details to follow as the method develops.
+Disease trajectories have a moment when the course changes. Transition point estimator (TPE) uses machine learning to map the non-linear relationship between inputs and outcomes and computes the transition point in the inputs behaviour to establish its cutpoint.

@@ -5,6 +5,7 @@
 # Default language
 en:
   locale: en-us
+  title: Robel Gebre
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

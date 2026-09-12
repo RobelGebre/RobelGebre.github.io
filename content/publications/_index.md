@@ -7,6 +7,7 @@ sections:
     id: publications
     content:
       title: Publications
+      count: 0
       subtitle: ""
       text: ""
       filters:
@@ -15,5 +16,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
+      columns: 3
 ---

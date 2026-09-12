@@ -2,6 +2,8 @@
 title: Cross-scanner MRI Harmonization
 date: 2024-03-01
 summary: "A comparison of structural MRI harmonization methods for multisite neuroimaging, focused on preserving biological signal across scanners."
+image:
+  filename: project-mark.png
 tags:
   - MRI
   - Harmonization

@@ -2,6 +2,8 @@
 title: Predicting Cognition with MRI and Plasma Biomarkers
 date: 2024-09-01
 summary: "Research on predicting cognitive status and decline from MRI, plasma biomarkers, genetics, and other clinical measures in Alzheimer's disease."
+image:
+  filename: project-mark.png
 tags:
   - Machine Learning
   - Cognition

@@ -2,6 +2,8 @@
 title: "THETA: Tau PET Quantification in Alzheimer's Disease"
 date: 2025-01-15
 summary: "THETA measures the spatial heterogeneity of tau PET signal in Alzheimer's disease using machine learning."
+image:
+  filename: project-mark.png
 tags:
   - Tau PET
   - Alzheimer's Disease

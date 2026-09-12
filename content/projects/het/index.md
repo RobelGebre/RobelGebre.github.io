@@ -2,6 +2,8 @@
 title: "MSA and Parkinson's Disease Imaging Heterogeneity"
 date: 2025-06-01
 summary: "MRI-based machine learning distinguishes multiple system atrophy subtypes from Parkinson's disease and quantifies disease heterogeneity."
+image:
+  filename: project-mark.png
 tags:
   - Neuroimaging
   - Heterogeneity

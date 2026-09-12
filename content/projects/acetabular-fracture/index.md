@@ -2,6 +2,8 @@
 title: Low-energy Acetabular Fracture Assessment in the Elderly
 date: 2021-06-01
 summary: "CT-based research on low-energy acetabular fractures and hip osteoarthritis in older adults, including bone structure and deep learning methods."
+image:
+  filename: project-mark.png
 tags:
   - CT
   - Musculoskeletal Imaging

@@ -2,6 +2,8 @@
 title: PET Tracer Classification
 date: 2026-06-01
 summary: "Deep learning identifies PET radiotracers directly from brain scans to improve quality control in multi-site studies."
+image:
+  filename: project-mark.png
 tags:
   - PET
   - Deep Learning

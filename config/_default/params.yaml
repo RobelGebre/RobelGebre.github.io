@@ -19,7 +19,21 @@ hugoblox:
   typography:
     pack: developer
     families:
-      nav: IBM Plex Sans
+      heading: Pixelify Sans
+      body: Chakra Petch
+      nav: Chakra Petch
+    weights:
+      heading: [400, 500, 600, 700]
+      body: [400, 500, 600, 700]
+    variable:
+      heading: false
+      body: false
+    leading:
+      heading: 1.2
+      body: 1.65
+    tracking:
+      heading: "0.01em"
+      body: "0"
     size: md
   layout:
     radius: sm

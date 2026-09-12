@@ -11,5 +11,6 @@ publishDate: "2023-12-01"
 publication_types: ["article-journal"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We examined vascular risk factors, gait measures, behavioral symptoms, and plasma biomarkers as indicators of vascular contributions to cognitive impairment and dementia."
+summary: "We examined vascular risk factors, gait measures, behavioral symptoms, and plasma biomarkers as indicators of vascular contributions to cognitive impairment and dementia."
 featured: false
 ---

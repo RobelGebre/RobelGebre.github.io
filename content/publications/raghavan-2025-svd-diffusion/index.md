@@ -11,5 +11,6 @@ publishDate: "2025-01-01"
 publication_types: ["article-journal"]
 publication: "*Cerebral Circulation - Cognition and Behavior*"
 abstract: "We used diffusion imaging measures to distinguish between hypertensive arteriopathy and cerebral amyloid angiopathy contributions to small vessel disease."
+summary: "We used diffusion imaging measures to distinguish between hypertensive arteriopathy and cerebral amyloid angiopathy contributions to small vessel disease."
 featured: false
 ---

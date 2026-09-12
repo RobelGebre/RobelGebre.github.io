@@ -10,5 +10,6 @@ publishDate: "2025-01-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We developed brain age prediction models designed to be invariant to MRI scanner changes for use in aging and dementia studies."
+summary: "We developed brain age prediction models designed to be invariant to MRI scanner changes for use in aging and dementia studies."
 featured: false
 ---

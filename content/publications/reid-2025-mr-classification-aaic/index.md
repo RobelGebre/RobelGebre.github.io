@@ -10,5 +10,6 @@ publishDate: "2025-01-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We developed an automatic classification system for head MR series to streamline neuroimaging data management."
+summary: "We developed an automatic classification system for head MR series to streamline neuroimaging data management."
 featured: false
 ---

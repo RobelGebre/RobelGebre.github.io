@@ -11,5 +11,6 @@ publishDate: "2023-12-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We evaluated non-imaging measures for predicting variability in white matter changes relevant to vascular contributions to cognitive impairment and dementia."
+summary: "We evaluated non-imaging measures for predicting variability in white matter changes relevant to vascular contributions to cognitive impairment and dementia."
 featured: false
 ---

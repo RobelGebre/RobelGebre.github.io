@@ -11,5 +11,6 @@ publishDate: "2026-03-01"
 publication_types: ["article-journal"]
 publication: "*Scientific Reports*"
 abstract: "We developed a machine learning framework to quantify disease heterogeneity and progression in multiple system atrophy and Parkinson's disease using structural and diffusion MRI."
+summary: "We developed a machine learning framework to quantify disease heterogeneity and progression in multiple system atrophy and Parkinson's disease using structural and diffusion MRI."
 featured: true
 ---

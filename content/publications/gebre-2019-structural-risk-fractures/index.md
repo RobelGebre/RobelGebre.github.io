@@ -9,5 +9,6 @@ publishDate: "2019-10-01"
 publication_types: ["article-journal"]
 publication: "*Bone*"
 abstract: "We identified structural risk factors for low-energy acetabular fractures in the elderly using computed tomography."
+summary: "We identified structural risk factors for low-energy acetabular fractures in the elderly using computed tomography."
 featured: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Talks
+summary: "Conference talks and presentations by Robel Gebre on neuroimaging, AI, PET biomarkers, and Alzheimer's disease."
 cms_exclude: true
 #url: talk
 

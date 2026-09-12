@@ -11,5 +11,6 @@ publishDate: "2023-11-01"
 publication_types: ["article-journal"]
 publication: "*Brain*"
 abstract: "We demonstrated that genetic risk scores enhance the diagnostic accuracy of plasma biomarkers for detecting brain amyloidosis."
+summary: "We demonstrated that genetic risk scores enhance the diagnostic accuracy of plasma biomarkers for detecting brain amyloidosis."
 featured: false
 ---

@@ -10,5 +10,6 @@ publishDate: "2023-12-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We compared NODDI diffusion imaging with structural MRI for sensitivity to neurodegenerative changes."
+summary: "We compared NODDI diffusion imaging with structural MRI for sensitivity to neurodegenerative changes."
 featured: false
 ---

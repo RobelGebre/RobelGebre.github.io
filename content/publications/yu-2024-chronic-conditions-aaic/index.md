@@ -12,5 +12,6 @@ publishDate: "2024-01-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We used brain age models to quantify the impact of chronic medical conditions on dementia risk."
+summary: "We used brain age models to quantify the impact of chronic medical conditions on dementia risk."
 featured: false
 ---

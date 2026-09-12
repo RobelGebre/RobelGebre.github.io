@@ -10,5 +10,6 @@ publishDate: "2023-06-01"
 publication_types: ["manuscript"]
 publication: "*arXiv (Preprint)*"
 abstract: "We developed a novel method to encode two-way epistatic interactions between single nucleotide polymorphisms for machine learning applications in genetics."
+summary: "We developed a novel method to encode two-way epistatic interactions between single nucleotide polymorphisms for machine learning applications in genetics."
 featured: false
 ---

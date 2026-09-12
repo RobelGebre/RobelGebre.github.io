@@ -11,5 +11,6 @@ publishDate: "2024-09-01"
 publication_types: ["article-journal"]
 publication: "*Brain Communications*"
 abstract: "We tested whether combining plasma biomarkers, genetics, cardiovascular risk, and lifestyle measures with MRI improves prediction of cognitive decline beyond any single data source."
+summary: "MRI, plasma biomarkers, genetics, cardiovascular risk, and lifestyle measures were compared for predicting cognitive decline."
 featured: true
 ---

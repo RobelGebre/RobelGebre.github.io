@@ -11,5 +11,6 @@ publishDate: "2024-03-01"
 publication_types: ["article-journal"]
 publication: "*Sleep Medicine*"
 abstract: "We applied AI methods to neuroimaging data to detect hypersomnia and characterize its neurobiological correlates."
+summary: "We applied AI methods to neuroimaging data to detect hypersomnia and characterize its neurobiological correlates."
 featured: false
 ---

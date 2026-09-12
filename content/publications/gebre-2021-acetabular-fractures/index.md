@@ -11,5 +11,6 @@ publishDate: "2021-01-01"
 publication_types: ["article-journal"]
 publication: "*Annals of Biomedical Engineering*"
 abstract: "We identified CT-based bone structural characteristics that discriminate patients with low-energy acetabular fractures from matched controls."
+summary: "We identified CT-based bone structural characteristics that discriminate patients with low-energy acetabular fractures from matched controls."
 featured: false
 ---

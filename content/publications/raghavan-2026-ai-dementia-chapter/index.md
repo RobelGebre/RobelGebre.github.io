@@ -10,5 +10,6 @@ publishDate: "2026-01-01"
 publication_types: ["article-journal"]
 publication: "*Artificial Intelligence and Brain-Computer Interfaces in Healthcare, Academic Press*"
 abstract: "A book chapter reviewing AI applications in dementia research including imaging biomarkers, machine learning classification, and disease progression modeling."
+summary: "A book chapter reviewing AI applications in dementia research including imaging biomarkers, machine learning classification, and disease progression modeling."
 featured: false
 ---

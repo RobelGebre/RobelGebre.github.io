@@ -1,6 +1,7 @@
 ---
 title: Cerebral Microbleeds
 date: 2026-06-01
+summary: "Why cerebral microbleeds are difficult to detect and segment on MRI, and what they mean for small vessel disease and anti-amyloid therapy safety."
 tags:
   - MRI
   - Deep Learning

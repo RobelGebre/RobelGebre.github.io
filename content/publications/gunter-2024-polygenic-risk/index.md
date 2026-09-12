@@ -11,5 +11,6 @@ publishDate: "2024-02-01"
 publication_types: ["article-journal"]
 publication: "*Neurology Genetics*"
 abstract: "We developed machine learning models integrating polygenic risk scores for enhanced prediction of Alzheimer's disease imaging and fluid biomarker endophenotypes."
+summary: "We developed machine learning models integrating polygenic risk scores for enhanced prediction of Alzheimer's disease imaging and fluid biomarker endophenotypes."
 featured: false
 ---

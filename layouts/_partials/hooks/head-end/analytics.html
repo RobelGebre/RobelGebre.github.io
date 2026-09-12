@@ -1,17 +1,15 @@
-{{/* Google Search Console verification.
-     Replace the content value with the code Search Console gives you
-     (the string inside content="..." of its meta-tag method). */}}
-<meta name="google-site-verification" content="REPLACE_WITH_VERIFICATION_CODE" />
+{{ with site.Params.site_metrics.search_console_verification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{ end }}
 
-{{/* Google Analytics 4.
-     Replace G-XXXXXXXXXX with your Measurement ID (Admin > Data Streams).
-     Guarded so it only loads on the deployed site, not local `hugo server`. */}}
+{{ with site.Params.site_metrics.ga4_measurement_id }}
 {{ if hugo.IsProduction }}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-XXXXXXXXXX');
+  gtag('config', '{{ . }}');
 </script>
+{{ end }}
 {{ end }}

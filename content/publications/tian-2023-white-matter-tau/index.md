@@ -11,5 +11,6 @@ publishDate: "2023-05-01"
 publication_types: ["article-journal"]
 publication: "*Neurology*"
 abstract: "We characterized white matter degeneration pathways associated with regional tau deposition in Alzheimer's disease."
+summary: "We characterized white matter degeneration pathways associated with regional tau deposition in Alzheimer's disease."
 featured: false
 ---

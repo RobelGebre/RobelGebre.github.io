@@ -1,6 +1,7 @@
 ---
 title: 'Experience'
 date: 2023-10-24
+summary: "Robel Gebre's academic appointments, training, skills, awards, and research experience in radiology and neuroimaging."
 type: landing
 
 design:

@@ -11,5 +11,6 @@ publishDate: "2022-01-01"
 publication_types: ["article-journal"]
 publication: "*Journal of Environmental Chemical Engineering*"
 abstract: "We developed a filter using alkali-activated blast furnace slag for dye removal from wastewater."
+summary: "We developed a filter using alkali-activated blast furnace slag for dye removal from wastewater."
 featured: false
 ---

@@ -11,5 +11,6 @@ publishDate: "2022-02-01"
 publication_types: ["article-journal"]
 publication: "*Osteoporosis International*"
 abstract: "We developed the first deep learning application for detecting hip osteoarthritis from 2-D summation images derived from routine clinical CT scans."
+summary: "We developed the first deep learning application for detecting hip osteoarthritis from 2-D summation images derived from routine clinical CT scans."
 featured: true
 ---

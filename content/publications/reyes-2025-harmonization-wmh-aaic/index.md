@@ -10,5 +10,6 @@ publishDate: "2025-01-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We evaluated ComBat and Deming regression for harmonizing white matter hyperintensity measurements across scanners and demonstrated that harmonization challenges persist."
+summary: "We evaluated ComBat and Deming regression for harmonizing white matter hyperintensity measurements across scanners and demonstrated that harmonization challenges persist."
 featured: false
 ---

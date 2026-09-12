@@ -11,5 +11,6 @@ publishDate: "2026-04-13"
 publication_types: ["article-journal"]
 publication: "*Molecular Degeneration*"
 abstract: "Detecting and distinguishing early changes due to the two key subtypes of cerebral small vessel disease (SVD), hypertensive arteriopathy (HA) and cerebral amyloid angiopathy (CAA), has significant clinical implications. Our goal was to develop and validate dMRI signatures associated with HA-SVD and CAA-SVD proxies and assess their clinical utility using Alzheimer’s disease and SVD biomarkers, pathology, and cognition."
+summary: "A study of diffusion MRI signatures linked to hypertensive arteriopathy and cerebral amyloid angiopathy in cerebral small vessel disease."
 featured: false
 ---

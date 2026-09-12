@@ -60,3 +60,9 @@ hugoblox:
       enable: true
   search:
     enable: true
+
+site_metrics:
+  # Optional URL-prefix Search Console verification token; domain properties use DNS instead.
+  search_console_verification: ""
+  # Optional GA4 measurement ID, such as G-XXXXXXXXXX.
+  ga4_measurement_id: ""

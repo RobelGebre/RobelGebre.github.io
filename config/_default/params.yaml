@@ -13,10 +13,9 @@ hugoblox:
       secondary: "#F1AE30"
       neutral: ""
   typography:
-    pack: modern
+    pack: developer
     families:
-      heading: Lora
-      nav: Inter
+      nav: IBM Plex Sans
     size: md
   layout:
     radius: md

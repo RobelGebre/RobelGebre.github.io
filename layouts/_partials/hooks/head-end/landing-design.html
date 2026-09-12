@@ -1,3 +1,6 @@
+{{ if .IsHome }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&amp;display=swap">
+{{ end }}
 <style>
   /* The biography block renders the name and landing headings as divs. */
   #section-resume-biography #profile > .text-3xl,
@@ -6,8 +9,8 @@
   #section-collection > .flex > .mb-6,
   #talks > .flex > .mb-6,
   #blog > .flex > .mb-6 {
-    font-family: var(--hb-font-heading);
-    letter-spacing: -0.035em;
+    font-family: "Pixelify Sans", var(--hb-font-heading);
+    letter-spacing: 0.01em;
   }
 
   #section-resume-biography #profile > .prose {
@@ -86,7 +89,7 @@
     #section-resume-biography #profile > .text-3xl {
       margin: 0 0 0.5rem;
       font-size: clamp(2.6rem, 4vw, 4rem);
-      line-height: 1.08;
+      line-height: 1.2;
     }
 
     #section-resume-biography #profile > .network-icon {

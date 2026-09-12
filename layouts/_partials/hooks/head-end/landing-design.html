@@ -14,6 +14,27 @@
     max-width: 38rem;
   }
 
+  #section-resume-biography {
+    border-bottom: 1px solid rgb(77 107 97 / 0.18);
+  }
+
+  html:not(.dark) #section-resume-biography {
+    background: radial-gradient(circle at 18% 32%, rgb(201 183 151 / 0.2), transparent 44%), #f6f0e5;
+  }
+
+  html:not(.dark) #papers [role="article"] {
+    background: #fffbf4;
+    border: 1px solid rgb(112 91 67 / 0.18);
+    border-radius: 0.5rem;
+    box-shadow: 0 6px 22px rgb(63 48 34 / 0.07);
+  }
+
+  html.dark #papers [role="article"] {
+    background: #28231e;
+    border: 1px solid rgb(214 177 111 / 0.18);
+    border-radius: 0.5rem;
+  }
+
   @media (min-width: 960px) {
     #section-resume-biography #profile {
       display: block;
@@ -30,7 +51,7 @@
       top: 50%;
       transform: translateY(-50%);
       margin-top: 0;
-      outline: 1px solid rgb(23 178 178 / 0.45);
+      outline: 1px solid rgb(77 107 97 / 0.55);
       outline-offset: 14px;
       border-radius: 50%;
     }
@@ -48,7 +69,7 @@
 
     #section-resume-biography #profile > .prose {
       margin-top: 1.5rem;
-      border-left: 3px solid rgb(23 178 178 / 0.7);
+      border-left: 3px solid #906534;
       padding-left: 1.25rem;
     }
 

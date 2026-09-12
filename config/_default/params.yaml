@@ -6,19 +6,23 @@ hugoblox:
     tagline: Assistant Professor of Radiology
     description: "Neuroimaging biomarkers, tau PET, and machine learning for Alzheimer's disease and neurodegeneration. Research by Robel Gebre, Mayo Clinic."
   theme:
-    mode: system
-    pack: default
+    mode: light
+    pack:
+      light: retro
+      dark: coffee
     colors:
-      primary: "#17B2B2"
-      secondary: "#F1AE30"
-      neutral: ""
+      primary: "#4D6B61"
+      secondary: "#906534"
+    colors_dark:
+      primary: "#A5BEAA"
+      secondary: "#D6B16F"
   typography:
     pack: developer
     families:
       nav: IBM Plex Sans
     size: md
   layout:
-    radius: md
+    radius: sm
     spacing: comfortable
     avatar_shape: circle
   header:

@@ -14,7 +14,7 @@ sections:
       text: |-
         I am glad to discuss neuroimaging, biomarkers, disease progression modeling, and potential collaborations. The fastest way to reach me is by email.
 
-        **Email:** [Gebre.RobelKebede@mayo.edu](mailto:Gebre.RobelKebede@mayo.edu)
+        **Email:** [robizj3000@gmail.com](mailto:robizj3000@gmail.com)
 
         **Address:** Department of Radiology, Mayo Clinic, 200 First Street SW, Rochester, MN 55905, USA
 

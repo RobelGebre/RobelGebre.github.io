@@ -12,7 +12,7 @@ sections:
       username: me
       text: >-
         I develop PET and MRI biomarkers that reveal how neurodegenerative disease
-        varies across people and over time. I apply AI to clinical questions in Alzheimer's disease and related disorders.
+        varies across people and over time.
       button:
         text: Download CV
         url: uploads/resume.pdf

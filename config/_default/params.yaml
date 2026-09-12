@@ -13,7 +13,10 @@ hugoblox:
       secondary: "#F1AE30"
       neutral: ""
   typography:
-    font: sans
+    pack: modern
+    families:
+      heading: Lora
+      nav: Inter
     size: md
   layout:
     radius: md

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 1600" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1600" role="img" aria-labelledby="title desc">
   <title id="title">Robel Gebre website logo</title>
-  <desc id="desc">A horizontal academic brand logo with a clear brain icon, subtle faded imaging scanner, AI network nodes, and Robel Gebre wordmark.</desc>
+  <desc id="desc">A brain mark with imaging and AI details.</desc>
   <defs>
     <linearGradient id="navyText" x1="1510" y1="450" x2="3450" y2="825" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#061E3D"/>

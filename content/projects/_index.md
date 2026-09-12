@@ -1,5 +1,6 @@
 ---
 title: 'Projects'
+summary: "Research projects by Robel Gebre in tau PET quantification, PET tracer classification, MRI harmonization, and disease progression modeling."
 date: 2024-05-19
 type: landing
 

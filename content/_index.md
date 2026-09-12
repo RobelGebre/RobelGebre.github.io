@@ -5,35 +5,35 @@ summary: "Robel Gebre is an Assistant Professor of Radiology at Mayo Clinic rese
 date: 2022-10-24
 type: landing
 design:
-  spacing: '6rem'
+  spacing: '4rem'
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       username: me
-      text: ''
+      text: >-
+        I develop PET and MRI biomarkers that reveal how neurodegenerative disease
+        varies across people and over time. At Mayo Clinic, I connect machine
+        learning with clinical questions in Alzheimer's disease and related disorders.
       button:
         text: Download CV
         url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
     design:
       background:
         gradient_mesh:
           enable: true
-      name:
-        size: md
       avatar:
         size: medium
         shape: circle
 
   - block: markdown
+    id: research
     content:
-      title: '🧠 My Research'
+      title: Research Focus
       subtitle: ''
       text: |-
-        I develop computational and analytical methods for quantifying neurodegenerative and musculoskeletal disease from medical images, using deep learning, explainable AI, biophysical modeling, disease progression modeling, and multimodal biomarker integration. My current work focuses on tau PET quantification in Alzheimer's disease, imaging heterogeneity that distinguishes multiple system atrophy from Parkinson's disease, and MRI harmonization for multi-site studies. I created the THETA score, the first tau PET metric that captures the full spatial heterogeneity of tau spread across the brain.
+        I use deep learning, explainable AI, and disease progression models to turn medical images into useful measures of disease. My current work focuses on tau PET quantification, MRI harmonization across sites, and imaging differences between multiple system atrophy and Parkinson's disease.
+
+        I created the [THETA score](/projects/theta/), a tau PET measure that captures the spatial pattern of tau across the brain.
     design:
       columns: '1'
 
@@ -52,13 +52,13 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Latest Publications
       text: ''
-      count: 0
+      count: 5
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
 

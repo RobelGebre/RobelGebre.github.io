@@ -1,5 +1,6 @@
 ---
 title: Publications
+summary: "Journal articles, conference papers, and book chapters by Robel Gebre on neuroimaging, tau PET, Alzheimer's disease, and medical imaging AI."
 type: landing
 
 sections:

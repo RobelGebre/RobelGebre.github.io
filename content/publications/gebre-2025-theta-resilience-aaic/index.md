@@ -11,5 +11,5 @@ publishDate: "2025-01-01"
 publication_types: ["paper-conference"]
 publication: "*Alzheimer's & Dementia*"
 abstract: "We applied the THETA score to investigate cognitive resilience mechanisms in individuals with heterogeneous global tau burden."
-featured: false
+featured: true
 ---

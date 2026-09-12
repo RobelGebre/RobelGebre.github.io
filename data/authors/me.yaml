@@ -15,7 +15,7 @@ status:
   icon: "🧠"
 role: "Assistant Professor of Radiology"
 url: "https://iborz.org"
-bio: "I am a Research Associate in the Department of Radiology at Mayo Clinic, developing and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions.
+bio: "I am an Assistant Professor in the Department of Radiology at Mayo Clinic, developing and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions.
 
   My work includes tau PET quantification, multisite MRI harmonization, disease progression modeling, and machine learning imaging signatures of rare disorders such as multiple system atrophy.\n"
 affiliations:
@@ -77,6 +77,7 @@ experience:
   - role: "Research Associate / Postdoctoral Research Fellow"
     org: "Mayo Clinic, Department of Radiology"
     start: "2021-09-13"
+    end: "2026-08-01"
     summary: "Developing and validating machine learning methods for quantifying neurodegenerative disease from PET and MRI.
 
       Created THETA, a novel tau PET summary metric for Alzheimer's disease (published in Journal of Nuclear Medicine).

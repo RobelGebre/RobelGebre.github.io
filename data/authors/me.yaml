@@ -13,7 +13,7 @@ postnominals:
   - "Ing"
 status:
   icon: "🧠"
-role: "Postdoctoral Fellow / Research Associate"
+role: "Assistant Professor of Radiology"
 url: "https://iborz.org"
 bio: "I am a Research Associate in the Department of Radiology at Mayo Clinic, developing and validating quantitative imaging biomarkers for Alzheimer's disease and related neurodegenerative conditions.
 
@@ -23,7 +23,7 @@ affiliations:
     url: ""
 links:
   - icon: "at-symbol"
-    url: "mailto:Gebre.RobelKebede@mayo.edu"
+    url: "mailto:robizj3000@gmail.com"
     label: "E-mail Me"
   - icon: "brands/github"
     url: "https://github.com/RobelGebre"
@@ -66,6 +66,14 @@ education:
 
       Recognized as the best young scientist in Ethiopia for undergraduate thesis on wireless infant incubators.\n"
 experience:
+  - role: "Assistant Professor of Radiology"
+    org: "Mayo Clinic, Department of Radiology"
+    start: "2026-08-01"
+    summary: "Leading research and clinical initiatives in neuroimaging and medical image analysis.
+
+      Continuing development of machine learning methods for quantifying neurodegenerative disease from PET and MRI.
+
+      Mentoring junior researchers and contributing to NIH-funded studies.\n"
   - role: "Research Associate / Postdoctoral Research Fellow"
     org: "Mayo Clinic, Department of Radiology"
     start: "2021-09-13"

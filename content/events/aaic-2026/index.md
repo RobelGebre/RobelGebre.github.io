@@ -25,7 +25,7 @@ event_end: '2026-07-15T18:00:00Z'
 event_all_day: true
 
 authors:
-  - admin                              # TODO: match your author id (the showcase used `me`)
+  - me
 
 tags:
   - Alzheimer's Disease

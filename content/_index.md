@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Robel Gebre'
-summary: ''
+title: 'Neuroimaging and AI Research'
+summary: "Robel Gebre is an Assistant Professor of Radiology at Mayo Clinic researching tau PET biomarkers, Alzheimer's disease, MRI harmonization, and machine learning in neuroimaging."
 date: 2022-10-24
 type: landing
 design:
@@ -33,7 +33,7 @@ sections:
       title: '🧠 My Research'
       subtitle: ''
       text: |-
-        I develop computational and analytical methods for quantifying neurodegenerative and musculoskeletal disease from medical images, using deep learning, explainable AI, biophysical modeling, disease progression modeling, and multimodal biomarker integration. My current work focuses on tau PET quantification in Alzheimer's disease, imaging heterogniety that distinguish multiple system atrophy from Parkinson's disease, and MRI harmonization for multi-site studies. I created the THETA score, the first tau PET metric that captures the full spatial heterogeneity of tau spread across the brain. 
+        I develop computational and analytical methods for quantifying neurodegenerative and musculoskeletal disease from medical images, using deep learning, explainable AI, biophysical modeling, disease progression modeling, and multimodal biomarker integration. My current work focuses on tau PET quantification in Alzheimer's disease, imaging heterogeneity that distinguishes multiple system atrophy from Parkinson's disease, and MRI harmonization for multi-site studies. I created the THETA score, the first tau PET metric that captures the full spatial heterogeneity of tau spread across the brain.
     design:
       columns: '1'
 

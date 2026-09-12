@@ -1,9 +1,9 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: "RG"
+    name: "Robel Gebre"
     type: person
-    tagline: Research Associate
+    tagline: Assistant Professor of Radiology
     description: "Neuroimaging biomarkers, tau PET, and machine learning for Alzheimer's disease and neurodegeneration. Research by Robel Gebre, Mayo Clinic."
   theme:
     mode: system

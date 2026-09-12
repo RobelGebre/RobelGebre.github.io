@@ -20,8 +20,8 @@ hugoblox:
     pack: developer
     families:
       heading: Pixelify Sans
-      body: Chakra Petch
-      nav: Chakra Petch
+      body: Pixelify Sans
+      nav: Pixelify Sans
     weights:
       heading: [400, 500, 600, 700]
       body: [400, 500, 600, 700]
@@ -30,10 +30,10 @@ hugoblox:
       body: false
     leading:
       heading: 1.2
-      body: 1.65
+      body: 1.75
     tracking:
       heading: "0.01em"
-      body: "0"
+      body: "0.01em"
     size: md
   layout:
     radius: sm

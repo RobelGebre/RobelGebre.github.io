@@ -1,0 +1,26 @@
+{{- if .IsHome -}}
+  {{- $author := site.Data.authors.me -}}
+  {{- $identity := site.Data.profile_identity -}}
+  {{- $home := site.Home.Permalink -}}
+  {{- $person := dict
+    "@type" "Person"
+    "@id" (printf "%s#person" $home)
+    "name" site.Params.hugoblox.identity.name
+    "givenName" $author.name.given
+    "familyName" $author.name.family
+    "alternateName" $identity.alternate_names
+    "url" $home
+    "sameAs" $identity.same_as
+    "jobTitle" $author.role
+    "description" site.Params.hugoblox.identity.description
+    "worksFor" (dict "@type" "Organization" "name" "Mayo Clinic" "url" "https://www.mayoclinic.org")
+  -}}
+  {{- $profile := dict
+    "@context" "https://schema.org"
+    "@type" "ProfilePage"
+    "@id" (printf "%s#profilepage" $home)
+    "url" $home
+    "mainEntity" $person
+  -}}
+<script type="application/ld+json">{{ $profile | jsonify | safeJS }}</script>
+{{- end -}}

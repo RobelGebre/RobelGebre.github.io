@@ -20,7 +20,7 @@ bio: "I am an Assistant Professor in the Department of Radiology at Mayo Clinic,
   My work includes tau PET quantification, multisite MRI harmonization, disease progression modeling, and machine learning imaging signatures of rare disorders such as multiple system atrophy.\n"
 affiliations:
   - name: "Department of Radiology, Mayo Clinic, Rochester, MN, USA"
-    url: ""
+    url: "https://www.mayo.edu/research/labs/aging-dementia-imaging/about/faculty-staff?letter=G"
 links:
   - icon: "at-symbol"
     url: "mailto:robizj3000@gmail.com"
@@ -28,9 +28,13 @@ links:
   - icon: "brands/github"
     url: "https://github.com/RobelGebre"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/schhp?hl=en&inst=12058184521150304743"
+    url: "https://scholar.google.com/citations?user=zL9vLVEAAAAJ"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-5746-0994"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/robel-kebede-gebre-12895312a"
+  - icon: "academicons/researchgate"
+    url: "https://www.researchgate.net/profile/Robel-Kebede-Gebre"
 interests:
   - "Neuroimaging Biomarkers"
   - "Tau PET Quantification"

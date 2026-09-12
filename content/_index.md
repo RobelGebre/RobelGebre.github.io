@@ -34,6 +34,8 @@ sections:
         I use deep learning, explainable AI, and disease progression models to turn medical images into useful measures of disease. My current work focuses on tau PET quantification, MRI harmonization across sites, and imaging differences between multiple system atrophy and Parkinson's disease.
 
         I created the [THETA score](/projects/theta/), a tau PET measure that captures the spatial pattern of tau across the brain.
+
+        My publications also appear under Robel K. Gebre and Robel Kebede Gebre.
     design:
       columns: '1'
 

@@ -19,7 +19,7 @@ sections:
 
         **Address:** Department of Radiology, Mayo Clinic, 200 First Street SW, Rochester, MN 55905, USA
 
-        **Online:** [GitHub](https://github.com/RobelGebre) · [Google Scholar](https://scholar.google.com/schhp?hl=en&inst=12058184521150304743) · [ORCID](https://orcid.org/0000-0002-5746-0994)
+        **Online:** [GitHub](https://github.com/RobelGebre) · [Google Scholar](https://scholar.google.com/citations?user=zL9vLVEAAAAJ) · [ORCID](https://orcid.org/0000-0002-5746-0994) · [LinkedIn](https://www.linkedin.com/in/robel-kebede-gebre-12895312a) · [ResearchGate](https://www.researchgate.net/profile/Robel-Kebede-Gebre)
     design:
       columns: '1'
 ---

@@ -1,8 +1,15 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&amp;display=swap">
 <style>
-  html body,
-  html body :is(.prose, p, li, h1, h2, h3, h4, h5, h6, nav, button, input, textarea, select) {
+  html body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  html body :is(h1, h2, h3, h4, h5, h6, nav) {
     font-family: "Pixelify Sans", system-ui, sans-serif !important;
+  }
+
+  html body :is(.prose, input, textarea, select, button) {
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   #site-header .navbar-brand img {
@@ -25,6 +32,61 @@
 
   #section-resume-biography #profile > .prose {
     max-width: 38rem;
+  }
+
+  /* A small accent repeats the introduction's gold rule. */
+  :is(#research, #papers, #section-collection, #talks, #blog) > .flex > .mb-6::after {
+    content: "";
+    display: block;
+    width: 2rem;
+    height: 2px;
+    margin: 0.8rem auto 0;
+    background: #906534;
+    opacity: 0.7;
+  }
+
+  html.dark :is(#research, #papers, #section-collection, #talks, #blog) > .flex > .mb-6::after {
+    background: #d6b16f;
+  }
+
+  .pub-list-item.view-citation {
+    padding-block: 0.35rem 0.75rem;
+    line-height: 1.75;
+    color: #5c625f;
+  }
+
+  html.dark .pub-list-item.view-citation {
+    color: #b5bcb7;
+  }
+
+  .pub-list-item .li-cite-author {
+    font-size: 0.9em;
+  }
+
+  .pub-list-item.view-citation > a {
+    font-weight: 600;
+    color: #263d34;
+    text-decoration-color: rgb(77 107 97 / 0.35);
+    text-underline-offset: 0.2em;
+  }
+
+  html.dark .pub-list-item.view-citation > a {
+    color: #e2e9e4;
+    text-decoration-color: rgb(165 190 170 / 0.4);
+  }
+
+  #papers [role="article"] h3 {
+    line-height: 1.4;
+  }
+
+  html body :is(main, nav) a {
+    transition: color 150ms ease, text-decoration-color 150ms ease;
+    text-underline-offset: 0.2em;
+  }
+
+  html body main :is(.prose a, .pub-list-item > a, h3 a):is(:hover, :focus-visible) {
+    text-decoration-line: underline;
+    text-decoration-color: currentColor;
   }
 
   #section-resume-biography #profile .bio-text {
@@ -67,13 +129,41 @@
     background: #fffbf4;
     border: 1px solid rgb(112 91 67 / 0.18);
     border-radius: 0.5rem;
-    box-shadow: 0 6px 22px rgb(63 48 34 / 0.07);
+    box-shadow: 0 2px 10px rgb(63 48 34 / 0.04);
   }
 
   html.dark #papers [role="article"] {
     background: #000;
     border: 1px solid rgb(214 177 111 / 0.18);
     border-radius: 0.5rem;
+    box-shadow: none;
+  }
+
+  #papers [role="article"] {
+    transition: border-color 150ms ease;
+  }
+
+  #papers [role="article"]:hover {
+    transform: none;
+    translate: none;
+    border-color: rgb(144 101 52 / 0.4);
+  }
+
+  html.dark #papers [role="article"]:hover {
+    border-color: rgb(214 177 111 / 0.4);
+  }
+
+  #papers [role="article"]:hover img {
+    transform: none;
+    scale: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html body :is(main, nav) a,
+    #papers [role="article"],
+    #papers [role="article"] img {
+      transition: none;
+    }
   }
 
   footer .personal-mark {

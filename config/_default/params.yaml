@@ -20,7 +20,7 @@ hugoblox:
     pack: developer
     families:
       heading: Pixelify Sans
-      body: Pixelify Sans
+      body: Arial
       nav: Pixelify Sans
     weights:
       heading: [400, 500, 600, 700]

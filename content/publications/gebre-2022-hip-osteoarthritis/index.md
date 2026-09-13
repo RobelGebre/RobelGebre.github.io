@@ -3,7 +3,7 @@ title: "Detecting hip osteoarthritis on clinical CT: A deep learning application
 authors:
   - "Robel K. Gebre"
   - "Jukka Hirvasniemi"
-  - "Rianne A. Van Der Heijden"
+  - "Rianne A. van der Heijden"
   - "et al."
 date: "2022-02-01"
 doi: "10.1007/s00198-021-06130-y"

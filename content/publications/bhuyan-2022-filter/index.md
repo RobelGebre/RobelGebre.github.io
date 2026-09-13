@@ -1,7 +1,7 @@
 ---
 title: "Preparation of filter by alkali activation of blast furnace slag and its application for dye removal"
 authors:
-  - "Md. Aminul Haque Bhuyan"
+  - "Mohammad Amzad Hossain Bhuyan"
   - "Robel K. Gebre"
   - "Mikko A.J. Finnilä"
   - "et al."

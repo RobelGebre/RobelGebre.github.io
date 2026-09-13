@@ -1,9 +1,10 @@
 ---
 title: "A Novel Approach to Encode Two-Way Epistatic Interactions Between Single Nucleotide Polymorphisms"
 authors:
-  - "Nathaniel B. Gunter"
+  - "Nathaniel Gunter"
+  - "Prashanthi Vemuri"
+  - "Vijay Ramanan"
   - "Robel K. Gebre"
-  - "et al."
 date: "2023-06-01"
 doi: "10.48550/arXiv.2306.09175"
 publishDate: "2023-06-01"

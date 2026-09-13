@@ -2,8 +2,8 @@
 title: "Advancing Tau PET Quantification in Alzheimer Disease with Machine Learning: Introducing THETA, a Novel Tau Summary Measure"
 authors:
   - "Robel K. Gebre"
-  - "Alejandro M. Rial"
-  - "Sujata Raghavan"
+  - "Alexis Moscoso Rial"
+  - "Sheelakumari Raghavan"
   - "et al."
 date: "2024-08-01"
 doi: "10.2967/jnumed.123.267273"

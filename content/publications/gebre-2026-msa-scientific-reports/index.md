@@ -3,7 +3,7 @@ title: "Precise disease heterogeneity and progression quantification in MSA and 
 authors:
   - "Robel K. Gebre"
   - "Sheelakumari Raghavan"
-  - "Mari E.J. De Tora"
+  - "Mari E. Johnson De Tora"
   - "et al."
 date: "2026-03-01"
 doi: "10.1038/s41598-026-45949-5"
